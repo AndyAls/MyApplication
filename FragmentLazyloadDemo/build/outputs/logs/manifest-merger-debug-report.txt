@@ -1,0 +1,72 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:3:11-52
+		INJECTED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml
+application
+ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:design:24.0.0] C:\Users\shuai.li13\.android\build-cache\bc3a87aa5bfe97a850edaf219960520194f0deab\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\shuai.li13\.android\build-cache\93371922a3bdd675e12e44650c2b63eb8ce02d1d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\shuai.li13\.android\build-cache\684dc24229adf1b91b3207c91f1cdde167a18257\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\shuai.li13\.android\build-cache\17e41a2871ab15f56b6524dcd04d7e5159ac0710\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\shuai.li13\.android\build-cache\76a8beb2fad7ad96baa7b471b3741fe1b2fbef67\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\shuai.li13\.android\build-cache\2ff005f9800b60a5cbf92c9b7c6cecde4337fb7b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\shuai.li13\.android\build-cache\5ca7fef76fb1c2aea01d7f7e1c9799050189c042\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\shuai.li13\.android\build-cache\a55f3af08efdf195b47e83c0ac2c0508eb9eed0d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\shuai.li13\.android\build-cache\01e4e0a9ea7d86d58eeec38b7e05bd02db0c8575\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\shuai.li13\.android\build-cache\69cee9be299f29edb96183069c1e5372730e737f\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:10:9-40
+activity#com.wangxw.fragmentlazyloaddemo.MainActivity
+ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.0.0] C:\Users\shuai.li13\.android\build-cache\bc3a87aa5bfe97a850edaf219960520194f0deab\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0] C:\Users\shuai.li13\.android\build-cache\36207e9a433e50ffce7143dd9171350bf1ac441d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\shuai.li13\.android\build-cache\93371922a3bdd675e12e44650c2b63eb8ce02d1d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\shuai.li13\.android\build-cache\684dc24229adf1b91b3207c91f1cdde167a18257\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\shuai.li13\.android\build-cache\17e41a2871ab15f56b6524dcd04d7e5159ac0710\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\shuai.li13\.android\build-cache\76a8beb2fad7ad96baa7b471b3741fe1b2fbef67\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\shuai.li13\.android\build-cache\2ff005f9800b60a5cbf92c9b7c6cecde4337fb7b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\shuai.li13\.android\build-cache\5ca7fef76fb1c2aea01d7f7e1c9799050189c042\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\shuai.li13\.android\build-cache\a55f3af08efdf195b47e83c0ac2c0508eb9eed0d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\shuai.li13\.android\build-cache\01e4e0a9ea7d86d58eeec38b7e05bd02db0c8575\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\shuai.li13\.android\build-cache\69cee9be299f29edb96183069c1e5372730e737f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\shuai.li13\.android\build-cache\93371922a3bdd675e12e44650c2b63eb8ce02d1d\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\01_Admin\studio\MyApplication\FragmentLazyloadDemo\src\main\AndroidManifest.xml

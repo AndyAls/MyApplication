@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\item_dialog_edittag.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\src\\main\\res\\layout\\item_dialog_edittag.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_add_tag.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\src\\main\\res\\layout\\dialog_add_tag.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_edit_tag.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\src\\main\\res\\layout\\dialog_edit_tag.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_item.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\src\\main\\res\\layout\\activity_main_item.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\popup_base.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\39fa0f76e0e3cf04827aa5e85c4789ab1c7f86b7\\output\\res\\layout\\popup_base.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\popup_bubble.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\39fa0f76e0e3cf04827aa5e85c4789ab1c7f86b7\\output\\res\\layout\\popup_bubble.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\e91e0a8499bea7ab2136568cd1c38216bd721717\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\build\\intermediates\\res\\merged\\debug\\layout\\tag.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\TagViewPager\\src\\main\\res\\layout\\tag.xml"
+    }
+]

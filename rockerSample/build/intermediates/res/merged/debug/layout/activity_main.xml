@@ -1,0 +1,78 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff000000" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/rudder"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:textColor="#ffffff"
+        android:textSize="22sp" />
+
+    <com.huybn.rockersample.Rocker_SurfaceView
+        android:id="@+id/rudder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView1"
+        android:layout_marginTop="-10dp"
+        android:background="#00000000" />
+
+    <SeekBar
+        android:id="@+id/seekBar_sensitivity"
+        style="@style/seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="false"
+        android:layout_gravity="center_vertical"
+        android:layout_marginBottom="10dp"
+        android:max="100" />
+    
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/seekBar_sensitivity"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="15dp"
+        android:text="重力感应灵敏度:"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView_gravity"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/seekBar_sensitivity"
+        android:layout_alignParentRight="true"
+        android:layout_alignRight="@id/seekBar_sensitivity"
+        android:layout_marginRight="10dp"
+        android:gravity="right"
+        android:text="0%"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/button_gravity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView12"
+        android:layout_alignLeft="@+id/textView12"
+        android:textColor="#ffffff"
+        android:text="重力感应" />
+
+    <Button
+        android:id="@+id/button_reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/button_gravity"
+        android:layout_toRightOf="@+id/button_gravity"
+        android:textColor="#ffffff"
+        android:text="重置" />
+
+</RelativeLayout>

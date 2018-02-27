@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\taorecorder_push_right_out.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\taorecorder_push_right_out.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\taorecorder_mintime_notice.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\taorecorder_mintime_notice.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\aliwx_sv_recorder_mintime_notice.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\aliwx_sv_recorder_mintime_notice.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\taorecorder_push_left_out.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\taorecorder_push_left_out.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\taorecorder_alpha_reverse.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\taorecorder_alpha_reverse.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\taorecorder_alpha_hide.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\taorecorder_alpha_hide.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\taorecorder_push_right_in.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\taorecorder_push_right_in.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\taorecorder_arrow_notice.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\taorecorder_arrow_notice.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\taorecorder_scale_reverse.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\taorecorder_scale_reverse.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\taorecorder_push_left_in.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\anim\\taorecorder_push_left_in.xml"
+    }
+]

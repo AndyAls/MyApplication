@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parentPanel"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+    <RelativeLayout
+        android:id="@+id/body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:paddingBottom="10dp"
+        android:paddingLeft="1dp"
+        android:paddingRight="15dp"
+        android:paddingTop="10dp" >
+        <ProgressBar
+            android:id="@+id/progress"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginRight="12dip"
+            android:indeterminate="false"
+            android:indeterminateDrawable="@drawable/shape_ring"
+             />
+        <TextView
+            android:id="@+id/customFrameMsg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/progress"
+            android:singleLine="true"
+            android:text="正在登录..."
+            android:textColor="#ffffff"
+            android:textSize="14.5sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/ll_client"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:onClick="onClick"
+            android:background="@drawable/item_default_selector"
+            android:orientation="vertical"
+
+            >
+            <TextView
+                android:id="@+id/tv_client"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="我的客户"
+                android:gravity="center"
+                android:textColor="@color/text_color_selector"/>
+            <View
+                android:id="@+id/client"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/green">
+            </View>
+      </LinearLayout>
+        <LinearLayout
+            android:id="@+id/ll_contact"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:background="@drawable/item_default_selector"
+            android:onClick="onClick"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:id="@+id/tv_contact"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="我的联系人"
+                android:textColor="@color/text_color_selector"
+                android:gravity="center"/>
+            <View
+                android:id="@+id/contact"
+                android:layout_width="match_parent"
+                android:layout_height="2dp">
+            </View>
+        </LinearLayout>
+    </LinearLayout>
+    <cn.evun.view.NoScrollViewPager
+        android:layout_marginTop="5dp"
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </cn.evun.view.NoScrollViewPager>
+
+
+</LinearLayout>

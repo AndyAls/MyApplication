@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <Button
+        android:id="@+id/btn_camera_take_photo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="拍照保存实现" />
+
+    <Button
+        android:id="@+id/btn_animation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/android_animation" />
+
+    <Button
+        android:id="@+id/btn_animator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/android_animator" />
+
+    <Button
+        android:id="@+id/btn_day_night"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/day_night_mode" />
+
+</LinearLayout>

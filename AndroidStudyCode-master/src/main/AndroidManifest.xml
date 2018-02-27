@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.clock.study">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".StudyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activity.MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.CapturePhotoActivity"
+            android:label="@string/take_photo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.PhotoPreviewActivity"
+            android:label="@string/photo_preview"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.AnimationActivity"
+            android:label="@string/android_animation" />
+        <activity
+            android:name=".activity.AnimationTestActivity"
+            android:label="@string/animation_test" />
+        <activity
+            android:name=".activity.AnimatorActivity"
+            android:label="@string/android_animator" />
+        <activity
+            android:name=".activity.DayNightActivity"
+            android:label="@string/day_night_mode" />
+        <activity
+            android:name=".activity.AuthorActivity"
+            android:label="Just a boy" />
+    </application>
+
+</manifest>

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aliwx_sv_select_dialog_item.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\aliwx_sv_select_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aliwx_sv_alert_dialog.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\aliwx_sv_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\taorecorder_timeline.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\taorecorder_timeline.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aliwx_sv_recorder_activity_recorder.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\aliwx_sv_recorder_activity_recorder.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aliwx_sv_recorder_activity_playvideo.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\aliwx_sv_recorder_activity_playvideo.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aliwx_sv_select_dialog_multichoice.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\aliwx_sv_select_dialog_multichoice.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aliwx_sv_recorder_timeline.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\aliwx_sv_recorder_timeline.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\taorecorder_activity_taoplayvideo.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\taorecorder_activity_taoplayvideo.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\taorecorcer_activity_filter.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\taorecorcer_activity_filter.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\taorecorder_view_radio_item.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\taorecorder_view_radio_item.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\taorecorder_uik_circular_progress.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\taorecorder_uik_circular_progress.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aliwx_sv_select_dialog_singlechoice.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\aliwx_sv_select_dialog_singlechoice.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aliwx_sv_select_dialog.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\aliwx_sv_select_dialog.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\taorecorder_dialog_layout.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\taorecorder_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\taorecorder_activity_recorder.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\taorecorder_activity_recorder.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\aliwx_sv_record_alert_dialog.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\aliwx_sv_record_alert_dialog.xml"
+    }
+]

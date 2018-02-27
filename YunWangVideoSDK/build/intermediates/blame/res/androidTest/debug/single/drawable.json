@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\aliwx_sv_recorder_ovalbg_stroke_pause.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\aliwx_sv_recorder_ovalbg_stroke_pause.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\aliwx_sv_recorder_ovalbg_stroke.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\aliwx_sv_recorder_ovalbg_stroke.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\taorecorder_ovalbg_stroke_pause.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\taorecorder_ovalbg_stroke_pause.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\aliwx_sv_st_button.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\aliwx_sv_st_button.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\taorecorder_record_ovalbg_pause.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\taorecorder_record_ovalbg_pause.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\aliwx_sv_common_grey_btn_bg.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\aliwx_sv_common_grey_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\aliwx_sv_strecorder_record_ovalbg.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\aliwx_sv_strecorder_record_ovalbg.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\aliwx_sv_alert_dialog_item_bg.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\aliwx_sv_alert_dialog_item_bg.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\taorecorder_backdelete_selector.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\taorecorder_backdelete_selector.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\greenyuan.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\greenyuan.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\taorecorder_uik_shape_waitview.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\taorecorder_uik_shape_waitview.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\taorecorder_record_ovalbg.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\taorecorder_record_ovalbg.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\taorecorder_rectbg_time.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\taorecorder_rectbg_time.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\taorecorder_timeline_clip_selector.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\taorecorder_timeline_clip_selector.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\aliwx_sv_common_dialog_white_bg.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\aliwx_sv_common_dialog_white_bg.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\taorecorde_oktext_selector.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\taorecorde_oktext_selector.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\taorecorder_back_selector.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\taorecorder_back_selector.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\aliwx_sv_common_blue_btn_bg.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\aliwx_sv_common_blue_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\aliwx_sv_recorder_timeline_clip_selector.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\aliwx_sv_recorder_timeline_clip_selector.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\aliwx_sv_strecorder_timeline_clip_selector.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\aliwx_sv_strecorder_timeline_clip_selector.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\taorecorder_ovalbg_stroke.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\taorecorder_ovalbg_stroke.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\taorecorder_progressbar_color.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\taorecorder_progressbar_color.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\aliwx_sv_blue_button.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\aliwx_sv_blue_button.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\aliwx_sv_record_time_border.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\aliwx_sv_record_time_border.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\aliwx_sv_recorder_record_ovalbg.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\aliwx_sv_recorder_record_ovalbg.xml"
+    }
+]

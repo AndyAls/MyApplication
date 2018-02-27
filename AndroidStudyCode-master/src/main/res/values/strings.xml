@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidStudyCode</string>
+    <string name="camera_open_error">启动相机失败</string>
+    <string name="photo_preview">PhotoPreview</string>
+    <string name="take_photo">TakePhoto</string>
+    <string name="display_to_gallery">显示到相册</string>
+    <string name="not_specify_a_directory">未指定存储目录</string>
+    <string name="help">帮助</string>
+    <string name="help_content">当前权限被禁用，建议到设置界面开启权限!</string>
+    <string name="cancel">取消</string>
+    <string name="settings">设置</string>
+    <string name="android_animation">Android  Animation</string>
+    <string name="android_animator">Android  Animator</string>
+    <string name="day_night_mode">DayNight Mode</string>
+    <string name="animation_test">Animation Test</string>
+</resources>

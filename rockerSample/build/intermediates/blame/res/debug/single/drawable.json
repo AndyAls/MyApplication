@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_icon_schedule_ball.png",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\src\\main\\res\\drawable\\detail_icon_schedule_ball.png"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\build\\intermediates\\res\\merged\\debug\\drawable\\detail_icon_schedule_ball_pressed.png",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\src\\main\\res\\drawable\\detail_icon_schedule_ball_pressed.png"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\build\\intermediates\\res\\merged\\debug\\drawable\\rocker.png",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\src\\main\\res\\drawable\\rocker.png"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_holo_light.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\src\\main\\res\\drawable\\progress_holo_light.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_bg.9.png",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\src\\main\\res\\drawable\\seekbar_bg.9.png"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb.xml",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\src\\main\\res\\drawable\\thumb.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\build\\intermediates\\res\\merged\\debug\\drawable\\rocker_point.png",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\src\\main\\res\\drawable\\rocker_point.png"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_front.9.png",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\src\\main\\res\\drawable\\seekbar_front.9.png"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_primary.9.png",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\rockerSample\\src\\main\\res\\drawable\\seekbar_primary.9.png"
+    }
+]

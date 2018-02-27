@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- 自定义loading dialog -->
+    <style name="loading_dialog" parent="android:style/Theme.Dialog">
+        <!--提示框是否有边框-->
+        <item name="android:windowFrame">@null</item>
+        <!--是否需要标题-->
+        <item name="android:windowNoTitle">true</item>
+        <!--对话框的背景-->
+        <item name="android:windowBackground">@drawable/pd_shape</item>
+        <!--对话框是否悬浮-->
+        <item name="android:windowIsFloating">true</item>
+        <!--默认Window的content背景-->
+        <item name="android:windowContentOverlay">@null</item>
+        <!--dialog遮罩透明度-->
+        <item name="android:backgroundDimAmount">0.5</item>
+        <!--是否需要dialog遮罩-->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+</resources>
