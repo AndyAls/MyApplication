@@ -107,6 +107,7 @@ public class ToastActivity extends BaseBackActivity {
             case R.id.btn_cancel_toast:
                 ToastUtils.cancel();
                 break;
+                default:
         }
     }
 

@@ -8,12 +8,12 @@
       <module fileurl="file://$PROJECT_DIR$/Calendarmi/Calendarmi.iml" filepath="$PROJECT_DIR$/Calendarmi/Calendarmi.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollapseCalendarView/CollapseCalendarView.iml" filepath="$PROJECT_DIR$/CollapseCalendarView/CollapseCalendarView.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollapseCalendarViewExample/CollapseCalendarViewExample.iml" filepath="$PROJECT_DIR$/CollapseCalendarViewExample/CollapseCalendarViewExample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CrashDemo/viewdemo.iml" filepath="$PROJECT_DIR$/CrashDemo/viewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrashDemo/CrashDemo.iml" filepath="$PROJECT_DIR$/CrashDemo/CrashDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/FragmentLazyloadDemo/FragmentLazyloadDemo.iml" filepath="$PROJECT_DIR$/FragmentLazyloadDemo/FragmentLazyloadDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ItemDecorationDemo/ItemDecorationDemo.iml" filepath="$PROJECT_DIR$/ItemDecorationDemo/ItemDecorationDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MPchat/MPchat.iml" filepath="$PROJECT_DIR$/MPchat/MPchat.iml" />
       <module fileurl="file://$PROJECT_DIR$/MagicWallPaper/MagicWallPaper.iml" filepath="$PROJECT_DIR$/MagicWallPaper/MagicWallPaper.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MultiDexDemo/multiexdemo.iml" filepath="$PROJECT_DIR$/MultiDexDemo/multiexdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiDexDemo/MultiDexDemo.iml" filepath="$PROJECT_DIR$/MultiDexDemo/MultiDexDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/SlidrExample/SlidrExample.iml" filepath="$PROJECT_DIR$/SlidrExample/SlidrExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/SmallVediosample/SmallVediosample.iml" filepath="$PROJECT_DIR$/SmallVediosample/SmallVediosample.iml" />
@@ -34,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/magicwalldemo/magicwalldemo.iml" filepath="$PROJECT_DIR$/magicwalldemo/magicwalldemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mpchart/mpchart.iml" filepath="$PROJECT_DIR$/mpchart/mpchart.iml" />
       <module fileurl="file://$PROJECT_DIR$/mplib/mplib.iml" filepath="$PROJECT_DIR$/mplib/mplib.iml" />
+      <module fileurl="file://D:\01_Admin\studio\MyApplication\MultiDexDemo\multiexdemo.iml" filepath="D:\01_Admin\studio\MyApplication\MultiDexDemo\multiexdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/netscrolldemo/netscrolldemo.iml" filepath="$PROJECT_DIR$/netscrolldemo/netscrolldemo.iml" />
@@ -52,6 +53,7 @@
       <module fileurl="file://$PROJECT_DIR$/swiperecyclerview/swiperecyclerview.iml" filepath="$PROJECT_DIR$/swiperecyclerview/swiperecyclerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/touchdemo/touchdemo.iml" filepath="$PROJECT_DIR$/touchdemo/touchdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/utilcode/utilcode.iml" filepath="$PROJECT_DIR$/utilcode/utilcode.iml" />
+      <module fileurl="file://D:\01_Admin\studio\MyApplication\CrashDemo\viewdemo.iml" filepath="D:\01_Admin\studio\MyApplication\CrashDemo\viewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/x5tbsdemo/x5tbsdemo.iml" filepath="$PROJECT_DIR$/x5tbsdemo/x5tbsdemo.iml" />
     </modules>
   </component>
