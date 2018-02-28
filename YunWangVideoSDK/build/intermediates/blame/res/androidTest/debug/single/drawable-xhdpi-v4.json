@@ -92,12 +92,12 @@
         "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\taorecorder_img_tutorial_adg.png"
     },
     {
-        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\taorecorder_nitification_recordlimit.png",
-        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\taorecorder_nitification_recordlimit.png"
-    },
-    {
         "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\taorecorder_playfill.png",
         "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\taorecorder_playfill.png"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\taorecorder_nitification_recordlimit.png",
+        "source": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\taorecorder_nitification_recordlimit.png"
     },
     {
         "merged": "D:\\01_Admin\\studio\\MyApplication\\YunWangVideoSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\taorecorder_backdelete_normal.png",

@@ -19,8 +19,6 @@ import java.util.List;
 
 /**
  * 拍照辅助类
- * <p/>
- * Created by Clock on 2016/5/21.
  */
 public class CapturePhotoHelper {
 

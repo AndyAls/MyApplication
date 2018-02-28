@@ -11,9 +11,6 @@ import android.support.v7.widget.RecyclerView;
 import android.text.TextPaint;
 import android.view.View;
 
-/**
- * Created by frank on 2017/4/11.
- */
 public class SectionDecoration extends RecyclerView.ItemDecoration {
 
 

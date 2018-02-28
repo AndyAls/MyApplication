@@ -15,9 +15,6 @@ import com.blankj.utilcode.util.BarUtils;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/09/29
  *     desc  : MainActivity
  * </pre>
  */

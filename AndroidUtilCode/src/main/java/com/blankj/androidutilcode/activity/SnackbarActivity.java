@@ -18,9 +18,6 @@ import com.blankj.utilcode.util.ToastUtils;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/10/17
  *     desc  : Snackbar工具类Demo
  * </pre>
  */

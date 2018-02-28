@@ -5,10 +5,6 @@ import android.graphics.Rect;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
-/**
- * Created by frank on 2017/4/12.
- */
-
 public class TestDividerItemDecoration extends RecyclerView.ItemDecoration {
 
     @Override

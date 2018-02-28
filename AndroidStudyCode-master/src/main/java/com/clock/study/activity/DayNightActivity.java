@@ -36,8 +36,6 @@ import java.util.List;
 /**
  * 夜间模式实现方案
  *
- * @author Clock
- * @since 2016-08-11
  */
 public class DayNightActivity extends AppCompatActivity implements CompoundButton.OnCheckedChangeListener {
 

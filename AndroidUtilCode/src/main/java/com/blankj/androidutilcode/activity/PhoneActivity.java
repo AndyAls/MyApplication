@@ -12,9 +12,6 @@ import com.blankj.utilcode.util.PhoneUtils;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/10/13
  *     desc  : Phone工具类Demo
  * </pre>
  */

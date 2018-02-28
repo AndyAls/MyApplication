@@ -28,12 +28,12 @@
         "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\93371922a3bdd675e12e44650c2b63eb8ce02d1d\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "D:\\01_Admin\\studio\\MyApplication\\FragmentLazyloadDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\93371922a3bdd675e12e44650c2b63eb8ce02d1d\\output\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "D:\\01_Admin\\studio\\MyApplication\\FragmentLazyloadDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\93371922a3bdd675e12e44650c2b63eb8ce02d1d\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\01_Admin\\studio\\MyApplication\\FragmentLazyloadDemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\shuai.li13\\.android\\build-cache\\93371922a3bdd675e12e44650c2b63eb8ce02d1d\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "D:\\01_Admin\\studio\\MyApplication\\FragmentLazyloadDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",

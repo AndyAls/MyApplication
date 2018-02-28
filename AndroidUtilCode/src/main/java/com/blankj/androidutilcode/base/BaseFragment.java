@@ -11,9 +11,6 @@ import android.view.ViewGroup;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2017/03/28
  *     desc  : Fragment－v4基类
  * </pre>
  */

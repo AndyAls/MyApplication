@@ -4,8 +4,6 @@ import android.animation.TypeEvaluator;
 
 /**
  * 仿照了 ArgbEvaluator 的系统实现，用于产生颜色过度渐变效果
- * <p/>
- * Created by Clock on 2016/7/22.
  */
 public class ColorEvaluator implements TypeEvaluator {
 

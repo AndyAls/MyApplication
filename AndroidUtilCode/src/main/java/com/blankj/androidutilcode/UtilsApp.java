@@ -12,9 +12,6 @@ import java.io.IOException;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/10/12
  *     desc  : 工具类测试App
  * </pre>
  */

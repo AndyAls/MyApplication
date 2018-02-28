@@ -24,9 +24,6 @@ import java.io.File;
 
 /**
  * 调用系统相机进行拍照
- *
- * @author Clock
- * @since 2016-05-13
  */
 public class CapturePhotoActivity extends AppCompatActivity implements View.OnClickListener {
 

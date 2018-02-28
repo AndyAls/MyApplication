@@ -15,9 +15,6 @@ import com.blankj.androidutilcode.R;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2017/06/27
  *     desc  : DrawerActivity基类
  * </pre>
  */

@@ -15,9 +15,6 @@ import java.util.ArrayList;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 17/02/01
  *     desc  : Fragment工具类Demo
  * </pre>
  */

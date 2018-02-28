@@ -12,8 +12,6 @@ import com.clock.study.activity.AuthorActivity;
 
 /**
  * Just Simple Author Adapter
- * <p/>
- * Created by Clock on 2016/8/24.
  */
 public class SimpleAuthorAdapter extends RecyclerView.Adapter<SimpleAuthorAdapter.SimpleViewHolder> {
 

@@ -13,12 +13,7 @@ import com.blankj.androidutilcode.base.BaseBackActivity;
 import com.blankj.utilcode.util.ActivityUtils;
 
 /**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/10/13
  *     desc  : Activity工具类Demo
- * </pre>
  */
 public class ActivityActivity extends BaseBackActivity {
 

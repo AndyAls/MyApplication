@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudyCode-master/AndroidStudyCode-master.iml" filepath="$PROJECT_DIR$/AndroidStudyCode-master/AndroidStudyCode-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidUtilCode/AndroidUtilCode.iml" filepath="$PROJECT_DIR$/AndroidUtilCode/AndroidUtilCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BannerView/BannerView.iml" filepath="$PROJECT_DIR$/BannerView/BannerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calendarmi/Calendarmi.iml" filepath="$PROJECT_DIR$/Calendarmi/Calendarmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollapseCalendarView/CollapseCalendarView.iml" filepath="$PROJECT_DIR$/CollapseCalendarView/CollapseCalendarView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollapseCalendarViewExample/CollapseCalendarViewExample.iml" filepath="$PROJECT_DIR$/CollapseCalendarViewExample/CollapseCalendarViewExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrashDemo/viewdemo.iml" filepath="$PROJECT_DIR$/CrashDemo/viewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentLazyloadDemo/FragmentLazyloadDemo.iml" filepath="$PROJECT_DIR$/FragmentLazyloadDemo/FragmentLazyloadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ItemDecorationDemo/ItemDecorationDemo.iml" filepath="$PROJECT_DIR$/ItemDecorationDemo/ItemDecorationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MPchat/MPchat.iml" filepath="$PROJECT_DIR$/MPchat/MPchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MagicWallPaper/MagicWallPaper.iml" filepath="$PROJECT_DIR$/MagicWallPaper/MagicWallPaper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiDexDemo/multiexdemo.iml" filepath="$PROJECT_DIR$/MultiDexDemo/multiexdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidrExample/SlidrExample.iml" filepath="$PROJECT_DIR$/SlidrExample/SlidrExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmallVediosample/SmallVediosample.iml" filepath="$PROJECT_DIR$/SmallVediosample/SmallVediosample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmallVideoLib/SmallVideoLib.iml" filepath="$PROJECT_DIR$/SmallVideoLib/SmallVideoLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyCoordinateLayout/StudyCoordinateLayout.iml" filepath="$PROJECT_DIR$/StudyCoordinateLayout/StudyCoordinateLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TagViewPager/TagViewPager.iml" filepath="$PROJECT_DIR$/TagViewPager/TagViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/X5WebDemo/X5WebDemo.iml" filepath="$PROJECT_DIR$/X5WebDemo/X5WebDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YunWangVideoSDK/YunWangVideoSDK.iml" filepath="$PROJECT_DIR$/YunWangVideoSDK/YunWangVideoSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2/app2.iml" filepath="$PROJECT_DIR$/app2/app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bugly/bugly.iml" filepath="$PROJECT_DIR$/bugly/bugly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decoration/decoration.iml" filepath="$PROJECT_DIR$/decoration/decoration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designdemo/designdemo.iml" filepath="$PROJECT_DIR$/designdemo/designdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawlayoutdemo/drawlayoutdemo.iml" filepath="$PROJECT_DIR$/drawlayoutdemo/drawlayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" filepath="$PROJECT_DIR$/fragmentdemo/fragmentdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradledemo/gradledemo.iml" filepath="$PROJECT_DIR$/gradledemo/gradledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keepCalendar/keepCalendar.iml" filepath="$PROJECT_DIR$/keepCalendar/keepCalendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/magicwalldemo/magicwalldemo.iml" filepath="$PROJECT_DIR$/magicwalldemo/magicwalldemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpchart/mpchart.iml" filepath="$PROJECT_DIR$/mpchart/mpchart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mplib/mplib.iml" filepath="$PROJECT_DIR$/mplib/mplib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netscrolldemo/netscrolldemo.iml" filepath="$PROJECT_DIR$/netscrolldemo/netscrolldemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" filepath="$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opengl/opengl.iml" filepath="$PROJECT_DIR$/opengl/opengl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paypsdinputview/paypsdinputview.iml" filepath="$PROJECT_DIR$/paypsdinputview/paypsdinputview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pickerview/pickerview.iml" filepath="$PROJECT_DIR$/pickerview/pickerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycleviewdemo/recycleviewdemo.iml" filepath="$PROJECT_DIR$/recycleviewdemo/recycleviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rockerSample/rockerSample.iml" filepath="$PROJECT_DIR$/rockerSample/rockerSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdlirtext/sdlirtext.iml" filepath="$PROJECT_DIR$/sdlirtext/sdlirtext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidrdemo/slidrdemo.iml" filepath="$PROJECT_DIR$/slidrdemo/slidrdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smallvediodemo/smallvediodemo.iml" filepath="$PROJECT_DIR$/smallvediodemo/smallvediodemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snakebardemo/snakebardemo.iml" filepath="$PROJECT_DIR$/snakebardemo/snakebardemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subutil/subutil.iml" filepath="$PROJECT_DIR$/subutil/subutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipedemo/swipedemo.iml" filepath="$PROJECT_DIR$/swipedemo/swipedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swiperecyclerview/swiperecyclerview.iml" filepath="$PROJECT_DIR$/swiperecyclerview/swiperecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/touchdemo/touchdemo.iml" filepath="$PROJECT_DIR$/touchdemo/touchdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilcode/utilcode.iml" filepath="$PROJECT_DIR$/utilcode/utilcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x5tbsdemo/x5tbsdemo.iml" filepath="$PROJECT_DIR$/x5tbsdemo/x5tbsdemo.iml" />
+    </modules>
+  </component>
+</project>

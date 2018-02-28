@@ -13,9 +13,6 @@ import java.lang.ref.WeakReference;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2017/06/01
  *     desc  :
  * </pre>
  */

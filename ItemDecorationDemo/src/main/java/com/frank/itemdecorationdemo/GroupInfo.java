@@ -1,8 +1,5 @@
 package com.frank.itemdecorationdemo;
 
-/**
- * Created by frank on 2017/4/14.
- */
 
 public class GroupInfo {
     //组号

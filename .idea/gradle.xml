@@ -5,6 +5,61 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidStudyCode-master" />
+            <option value="$PROJECT_DIR$/AndroidUtilCode" />
+            <option value="$PROJECT_DIR$/BannerView" />
+            <option value="$PROJECT_DIR$/Calendarmi" />
+            <option value="$PROJECT_DIR$/CollapseCalendarView" />
+            <option value="$PROJECT_DIR$/CollapseCalendarViewExample" />
+            <option value="$PROJECT_DIR$/CrashDemo" />
+            <option value="$PROJECT_DIR$/FragmentLazyloadDemo" />
+            <option value="$PROJECT_DIR$/ItemDecorationDemo" />
+            <option value="$PROJECT_DIR$/MPchat" />
+            <option value="$PROJECT_DIR$/MagicWallPaper" />
+            <option value="$PROJECT_DIR$/MultiDexDemo" />
+            <option value="$PROJECT_DIR$/SlidrExample" />
+            <option value="$PROJECT_DIR$/SmallVediosample" />
+            <option value="$PROJECT_DIR$/SmallVideoLib" />
+            <option value="$PROJECT_DIR$/StudyCoordinateLayout" />
+            <option value="$PROJECT_DIR$/TagViewPager" />
+            <option value="$PROJECT_DIR$/X5WebDemo" />
+            <option value="$PROJECT_DIR$/YunWangVideoSDK" />
+            <option value="$PROJECT_DIR$/app2" />
+            <option value="$PROJECT_DIR$/bugly" />
+            <option value="$PROJECT_DIR$/decoration" />
+            <option value="$PROJECT_DIR$/designdemo" />
+            <option value="$PROJECT_DIR$/drawlayoutdemo" />
+            <option value="$PROJECT_DIR$/fragmentdemo" />
+            <option value="$PROJECT_DIR$/gradledemo" />
+            <option value="$PROJECT_DIR$/keepCalendar" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/magicwalldemo" />
+            <option value="$PROJECT_DIR$/mpchart" />
+            <option value="$PROJECT_DIR$/mplib" />
+            <option value="$PROJECT_DIR$/myapplication2" />
+            <option value="$PROJECT_DIR$/mylibrary" />
+            <option value="$PROJECT_DIR$/netscrolldemo" />
+            <option value="$PROJECT_DIR$/okhttpdemo" />
+            <option value="$PROJECT_DIR$/opengl" />
+            <option value="$PROJECT_DIR$/paypsdinputview" />
+            <option value="$PROJECT_DIR$/pickerview" />
+            <option value="$PROJECT_DIR$/recycleviewdemo" />
+            <option value="$PROJECT_DIR$/rockerSample" />
+            <option value="$PROJECT_DIR$/sdlirtext" />
+            <option value="$PROJECT_DIR$/slidrdemo" />
+            <option value="$PROJECT_DIR$/smallvediodemo" />
+            <option value="$PROJECT_DIR$/snakebardemo" />
+            <option value="$PROJECT_DIR$/subutil" />
+            <option value="$PROJECT_DIR$/swipedemo" />
+            <option value="$PROJECT_DIR$/swiperecyclerview" />
+            <option value="$PROJECT_DIR$/touchdemo" />
+            <option value="$PROJECT_DIR$/utilcode" />
+            <option value="$PROJECT_DIR$/x5tbsdemo" />
+          </set>
+        </option>
         <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>

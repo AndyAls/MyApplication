@@ -6,9 +6,6 @@ import android.view.ViewGroup;
 
 import java.util.List;
 
-/**
- * Created by lucky on 2017/3/20.
- */
 public class BannerAdapter extends PagerAdapter {
 
     private List<View> viewList;

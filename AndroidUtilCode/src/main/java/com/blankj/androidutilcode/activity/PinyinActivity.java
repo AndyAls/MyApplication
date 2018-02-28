@@ -12,9 +12,6 @@ import com.blankj.subutil.util.PinyinUtils;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 17/02/01
  *     desc  : Pinyin工具类Demo
  * </pre>
  */

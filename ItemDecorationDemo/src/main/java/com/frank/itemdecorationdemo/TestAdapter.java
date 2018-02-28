@@ -8,9 +8,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * Created by frank on 2017/4/11.
- */
 
 public class TestAdapter extends RecyclerView.Adapter<TestAdapter.TestHolder> {
 

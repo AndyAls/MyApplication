@@ -12,11 +12,6 @@ import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
 
-/**
- * Created by frank on 2017/4/12.
- * @author sk
- * @date 2222
- */
 public class FlagItemDecoration extends RecyclerView.ItemDecoration {
     private Paint mPaint;
     private Bitmap mIcon;

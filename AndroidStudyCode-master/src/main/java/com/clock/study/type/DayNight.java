@@ -1,8 +1,4 @@
 package com.clock.study.type;
-
-/**
- * Created by Clock on 2016/8/24.
- */
 public enum DayNight {
 
     DAY("DAY", 0),

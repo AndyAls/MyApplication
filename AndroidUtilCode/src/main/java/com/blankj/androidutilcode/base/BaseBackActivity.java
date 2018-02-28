@@ -17,9 +17,6 @@ import com.r0adkll.slidr.Slidr;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2017/06/27
  *     desc  : DrawerActivity基类
  * </pre>
  */

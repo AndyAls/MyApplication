@@ -6,17 +6,14 @@ import java.io.File;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2017/05/10
  *     desc  :
  * </pre>
  */
 public class Config {
     public static final String PKG      = "com.blankj.androidutilcode";
     public static final String TEST_PKG = "com.blankj.testinstall";
-    public static final String GITHUB   = "https://github.com/Blankj/AndroidUtilCode";
-    public static final String BLOG     = "http://www.jianshu.com/u/46702d5c6978";
+    public static final String GITHUB   = "https://github.com/AndyAls";
+    public static final String BLOG     = "http://blog.csdn.net/Andy_l1";
 
 
     private static String testApkPath;

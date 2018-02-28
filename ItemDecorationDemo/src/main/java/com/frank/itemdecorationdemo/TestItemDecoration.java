@@ -8,9 +8,6 @@ import android.graphics.Rect;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 
-/**
- * Created by ly-zhaominglai on 2017/4/11.
- */
 
 public class TestItemDecoration extends RecyclerView.ItemDecoration {
 

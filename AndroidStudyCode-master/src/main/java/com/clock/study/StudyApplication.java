@@ -5,9 +5,6 @@ import android.app.Application;
 import com.clock.study.manager.FolderManager;
 import com.clock.utils.crash.CrashExceptionHandler;
 
-/**
- * Created by Clock on 2016/5/13.
- */
 public class StudyApplication extends Application {
 
     @Override

@@ -13,8 +13,6 @@ import java.io.File;
 
 /**
  * 目录管理器
- * <p/>
- * Created by Clock on 2016/5/27.
  */
 public class FolderManager {
 

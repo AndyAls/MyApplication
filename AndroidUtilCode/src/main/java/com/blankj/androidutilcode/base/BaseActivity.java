@@ -7,9 +7,6 @@ import android.view.View;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/10/24
  *     desc  : Activity基类
  * </pre>
  */

@@ -4,9 +4,6 @@ import java.util.ArrayList;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2017/06/11
  *     desc  :
  * </pre>
  */

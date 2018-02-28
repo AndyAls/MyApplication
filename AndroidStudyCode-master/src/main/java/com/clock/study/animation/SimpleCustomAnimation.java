@@ -5,9 +5,6 @@ import android.util.Log;
 import android.view.animation.Animation;
 import android.view.animation.Transformation;
 
-/**
- * Created by Clock on 2016/7/9.
- */
 public class SimpleCustomAnimation extends Animation {
 
     private final static String TAG = SimpleCustomAnimation.class.getSimpleName();

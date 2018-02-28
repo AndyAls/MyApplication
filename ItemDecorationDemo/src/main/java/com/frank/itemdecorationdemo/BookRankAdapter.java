@@ -10,9 +10,6 @@ import android.widget.TextView;
 import java.util.HashMap;
 import java.util.List;
 
-/**
- * Created by frank on 2017/4/11.
- */
 
 public class BookRankAdapter extends RecyclerView.Adapter<BookRankAdapter.TestHolder> {
 

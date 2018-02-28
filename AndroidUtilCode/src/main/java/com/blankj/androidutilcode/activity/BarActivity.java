@@ -10,9 +10,6 @@ import com.blankj.androidutilcode.base.BaseBackActivity;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2017/05/27
  *     desc  : Bar工具类Demo
  * </pre>
  */

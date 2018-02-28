@@ -5,9 +5,6 @@ import android.content.SharedPreferences;
 
 import com.clock.study.type.DayNight;
 
-/**
- * Created by Clock on 2016/8/24.
- */
 public class DayNightHelper {
 
     private final static String FILE_NAME = "settings";

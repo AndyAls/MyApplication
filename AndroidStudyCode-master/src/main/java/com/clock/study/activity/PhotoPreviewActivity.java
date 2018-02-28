@@ -17,8 +17,6 @@ import java.io.File;
 /**
  * 预览图片界面
  *
- * @author Clock
- * @since 2016-05-13
  */
 public class PhotoPreviewActivity extends AppCompatActivity implements View.OnClickListener {
 

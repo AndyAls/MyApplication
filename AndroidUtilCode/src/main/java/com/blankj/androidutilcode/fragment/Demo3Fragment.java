@@ -22,9 +22,6 @@ import java.util.Random;
 
 /**
  * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 17/02/02
  *     desc  :
  * </pre>
  */

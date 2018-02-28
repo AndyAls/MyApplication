@@ -18,9 +18,6 @@ import com.clock.study.R;
 
 /**
  * About Android Animator
- *
- * @author Clock
- * @since 2016-07-21
  */
 public class AnimatorActivity extends AppCompatActivity implements View.OnClickListener {
 

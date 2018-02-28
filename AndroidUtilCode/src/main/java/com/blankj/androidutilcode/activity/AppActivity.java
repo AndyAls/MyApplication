@@ -14,12 +14,7 @@ import com.blankj.utilcode.util.SpanUtils;
 import com.blankj.utilcode.util.ToastUtils;
 
 /**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/10/13
  *     desc  : App工具类Demo
- * </pre>
  */
 
 public class AppActivity extends BaseBackActivity {
